@@ -1,0 +1,18 @@
+{
+  "name": "zero-isbn",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nock": "^9.0.9"
+  }
+}
